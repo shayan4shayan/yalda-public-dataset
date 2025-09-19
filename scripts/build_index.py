@@ -13,7 +13,7 @@ from urllib.parse import quote
 # - GitHub raw:   https://raw.githubusercontent.com/<user>/<repo>/<branch>/
 # - GitHub pages: https://<user>.github.io/<repo>/
 # - Any CDN or server where these files will be hosted
-BASE_URL = ""
+BASE_URL = "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/"
 
 
 def ensure_trailing_slash(url: str) -> str:
