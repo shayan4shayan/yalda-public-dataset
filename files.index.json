@@ -1,0 +1,58 @@
+[
+  {
+    "name": "accessories.json",
+    "address": "accessories.json"
+  },
+  {
+    "name": "animal.json",
+    "address": "animal.json"
+  },
+  {
+    "name": "body_parts.json",
+    "address": "body_parts.json"
+  },
+  {
+    "name": "car_parts.json",
+    "address": "car_parts.json"
+  },
+  {
+    "name": "chores.json",
+    "address": "chores.json"
+  },
+  {
+    "name": "communication.json",
+    "address": "communication.json"
+  },
+  {
+    "name": "countries.json",
+    "address": "countries.json"
+  },
+  {
+    "name": "food.json",
+    "address": "food.json"
+  },
+  {
+    "name": "furniture.json",
+    "address": "furniture.json"
+  },
+  {
+    "name": "makeup.json",
+    "address": "makeup.json"
+  },
+  {
+    "name": "medicine.json",
+    "address": "medicine.json"
+  },
+  {
+    "name": "toys.json",
+    "address": "toys.json"
+  },
+  {
+    "name": "traffic.json",
+    "address": "traffic.json"
+  },
+  {
+    "name": "vegetables.json",
+    "address": "vegetables.json"
+  }
+]
