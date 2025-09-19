@@ -1,58 +1,58 @@
 [
   {
     "name": "accessories.json",
-    "address": "accessories.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/accessories.json"
   },
   {
     "name": "animal.json",
-    "address": "animal.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/animal.json"
   },
   {
     "name": "body_parts.json",
-    "address": "body_parts.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/body_parts.json"
   },
   {
     "name": "car_parts.json",
-    "address": "car_parts.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/car_parts.json"
   },
   {
     "name": "chores.json",
-    "address": "chores.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/chores.json"
   },
   {
     "name": "communication.json",
-    "address": "communication.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/communication.json"
   },
   {
     "name": "countries.json",
-    "address": "countries.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/countries.json"
   },
   {
     "name": "food.json",
-    "address": "food.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/food.json"
   },
   {
     "name": "furniture.json",
-    "address": "furniture.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/furniture.json"
   },
   {
     "name": "makeup.json",
-    "address": "makeup.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/makeup.json"
   },
   {
     "name": "medicine.json",
-    "address": "medicine.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/medicine.json"
   },
   {
     "name": "toys.json",
-    "address": "toys.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/toys.json"
   },
   {
     "name": "traffic.json",
-    "address": "traffic.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/traffic.json"
   },
   {
     "name": "vegetables.json",
-    "address": "vegetables.json"
+    "address": "https://raw.githubusercontent.com/shayan4shayan/yalda-public-dataset/refs/heads/main/vegetables.json"
   }
 ]
